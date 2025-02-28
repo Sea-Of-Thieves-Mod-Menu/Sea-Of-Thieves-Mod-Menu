@@ -1,16 +1,17 @@
-# 🏴‍☠️ Sea of Thieves Cheat  
+# ⚓ Sea of Thieves Mod Menu  
 
-Dominate the seas with this powerful cheat for Sea of Thieves! Gain the ultimate advantage with features designed to enhance your gameplay and outsmart your enemies.  
+Enhance your Sea of Thieves experience with this powerful mod menu! Unlock new features, customize gameplay, and gain the ultimate advantage on the open seas.  
 
 ## 🌊 Features:
-- **ESP (Wallhack)** – Spot ships, players, and loot from miles away  
-- **Aimbot** – Perfect shots every time for cannon and firearm combat  
-- **Speed Boost** – Move faster and navigate the seas with ease  
-- **Auto Parry** – Block incoming sword attacks automatically  
-- **Treasure Finder** – Instantly locate valuable loot on islands  
+- **ESP (Wallhack)** – See enemies, ships, and loot through walls  
+- **Aimbot** – Perfect accuracy with cannons and firearms  
+- **Speed & Movement Hacks** – Faster swimming, running, and sailing  
+- **Auto Loot** – Instantly collect valuable treasures  
+- **God Mode** – Take no damage from enemies or the environment  
+- **Custom Ship Modifications** – Boost speed, durability, and more  
 
-## ⚙ How to Use:
-1. Download and extract the latest version of the cheat.  
-2. Run the cheat tool before launching Sea of Thieves.  
-3. Configure the settings to your preference.  
-4. Set sail and conquer the seas! 
+## ⚙ How to Install:
+1. Download the latest version of the mod menu.  
+2. Extract the files and run the installer.  
+3. Launch Sea of Thieves and open the mod menu in-game.  
+4. Customize your settings and set sail!  
