@@ -1,0 +1,1 @@
+console.log("Sea Of Thieves Mod Menu is active!");
